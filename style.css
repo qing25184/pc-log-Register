@@ -24,7 +24,7 @@ body{
     
     align-items: center;
     background-color: var(--white);
-    background: url(background.png);
+    background: url(http://desk-fd.zol-img.com.cn/t_s1600x900/g5/M00/01/0F/ChMkJ1bKwn6IcPj5AAmOfbcPwowAALGowK122oACY6V364.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -108,7 +108,7 @@ body{
 
 .overlay{
     background-color: var(--lightblue);
-    background: url(background.png);
+    background: url(http://desk-fd.zol-img.com.cn/t_s1600x900/g5/M00/01/0F/ChMkJ1bKwn6IcPj5AAmOfbcPwowAALGowK122oACY6V364.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
